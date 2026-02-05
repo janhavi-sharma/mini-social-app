@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { data, useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import '../styles/AuthScreen.css';
