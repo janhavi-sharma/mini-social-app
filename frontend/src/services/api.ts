@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://mini-social-post-app.onrender.com';
+const API_URL = 'https://mini-social-post-app.onrender.com/api';
 
 // ---------- Login, Signop ----------
 export const signup = async (data: {
